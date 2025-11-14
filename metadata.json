@@ -1,0 +1,7 @@
+{
+  "name": "Insight Engine",
+  "description": "An all-in-one assistant powered by Gemini. Summarize documents (PDF/Image), generate creative images, and chat with an intelligent AI bot.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
